@@ -11,7 +11,7 @@ On GitHub, I will upload my creations as a portfolio.
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=photoshop,illustrator,xd,figma" />
 
 ## Coding
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,jquery,js,vscode,wordpress,github" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,jquery,js" />
 
 ## Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,wordpress,github" />
