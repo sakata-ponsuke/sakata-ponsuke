@@ -1,6 +1,7 @@
 # Hi, I'm Sakata Ponsuke!
 
 I work as a web designer and art director.
+On GitHub, I will upload my creations as a portfolio.
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sakata-ponsuke&theme=2077)
 
