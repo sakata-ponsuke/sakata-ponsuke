@@ -7,7 +7,11 @@ On GitHub, I will upload my creations as a portfolio.
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakata-ponsuke&layout=compact&count_private=true&show_icons=true&theme=tokyonight" /><img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=sakata-ponsuke&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
 
-## Skill
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=photoshop,illustrator,xd,figma,html,css,jquery,js,vscode,wordpress,github" />
+## Web Design
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=photoshop,illustrator,xd,figma" />
 
+## Coding
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,jquery,js,vscode,wordpress,github" />
 
+## Tools
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,wordpress,github" />
