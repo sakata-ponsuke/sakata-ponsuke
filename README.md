@@ -9,9 +9,20 @@ On GitHub, I will upload my creations as a portfolio.
 
 ## 🎨Web Design
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=photoshop,illustrator,xd,figma" />
+・ワイヤーフレーム制作<br>
+・デザインカンプ制作<br>
+・Webサイト制作と編集<br>
+・バナー制作<br>
 
 ## 💻Coding
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,jquery,js" />
+・Webサイト制作と編集<br>
+・レスポンシブデザイン<br>
+・DOM操作<br>
+・インタラクティブなWebページ作成<br>
 
 ## 🧰Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,wordpress,github" />
+・Webサイトの構築と管理<br>
+・ローカル開発環境の構築<br>
+・コードのバージョン管理<br>
