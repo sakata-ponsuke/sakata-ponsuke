@@ -19,7 +19,7 @@ On GitHub, I will upload my creations as a portfolio.
 ・Webサイト制作と編集<br>
 ・レスポンシブデザイン<br>
 ・DOM操作<br>
-・インタラクティブなWebページ作成<br>
+・インタラクティブなWebページ制作<br>
 
 ## 🧰Tools
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=vscode,wordpress,github" />
